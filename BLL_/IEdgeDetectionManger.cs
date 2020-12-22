@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL_
 {
-    public class Class1
+    interface IEdgeDetectionManger
     {
     }
 }
