@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectDetection", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_", "BLL_\BLL_.csproj", "{3DD96D66-B5F5-4379-A341-A6CEF5609717}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO_", "DTO_\DTO_.csproj", "{3818A7EC-C92B-4A27-A7BE-1457E594BF91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO_", "DTO_\IO_.csproj", "{3818A7EC-C92B-4A27-A7BE-1457E594BF91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

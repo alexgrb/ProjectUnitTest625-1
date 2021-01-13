@@ -79,5 +79,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL_\BLL_.csproj">
+      <Project>{3dd96d66-b5f5-4379-a341-a6cef5609717}</Project>
+      <Name>BLL_</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_\IO_.csproj">
+      <Project>{3818a7ec-c92b-4a27-a7be-1457e594bf91}</Project>
+      <Name>IO_</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
